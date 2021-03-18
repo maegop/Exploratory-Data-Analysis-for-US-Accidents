@@ -9,6 +9,6 @@ This dataset has been collected in real-time, using multiple Traffic APIs. Curre
 US-Accidents file can be used for numerous applications such as real-time car accident prediction, studying car accidents hotspot locations, casualty analysis and extracting cause and effect rules to predict car accidents, and studying the impact of precipitation or other environmental stimuli on accident occurrence. 
 
 ## Summary
-Informaiton about accidents
-Can be useful to prevent accidents
-Mention that this does not contain data about New York
+* Informaiton about accidents
+* Can be useful to prevent accidents
+* Mention that this does not contain data about New York
